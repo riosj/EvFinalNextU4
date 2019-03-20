@@ -1,0 +1,13 @@
+.background{
+    background-image: url("./img/main-fondo.jpg");
+  }
+Jumbotron {
+  width: 100%;
+}
+.jumbotron {
+  width: 100%;
+  text-align: center;
+}
+.navbar-nav {
+    flex-direction: row-reverse;
+}
